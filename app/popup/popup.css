@@ -7,7 +7,7 @@ body {
     overflow-x: hidden;
 }
 
-body {
+html, body {
     min-width: 300px;
 }
 
